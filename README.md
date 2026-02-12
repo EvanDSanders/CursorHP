@@ -5,7 +5,9 @@ I will probably add more, feel free to suggest things to add.
 
 This mod does not change the mouse cursor itself. The cursor in the icon is the KDE Breeze cursor.
 
-This Github Repo contains the mod source, as well as the Blender file used to make the rings, and a python script to convert the blender images into premultiplied alpha images for TMod to use.
+This Github Repo contains the mod source, as well as the Blender file used to make the rings, and a python script to convert the blender images into premultiplied alpha images for tModLoader to use.
+
+Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=3033269638
 
 Credits:
 
